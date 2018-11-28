@@ -1,0 +1,38 @@
+  Tipo :  Recomendación
+  Palabras Clave :  ['artículo', 'bis para', 'tales efectos', 'tratándose del riesgo', 'crédito podrá aplicarse alguno', 'los dos enfoques', 'método estándar', 'cual se refiere', 'sección segunda', 'capítulo iii', 'del presente título', 'y otro basado', 'calificaciones internas', 'este último', 'tipo básico o avanzado', 'cuyo uso estará sujeto', 'lo dispuesto', 'sección tercera', 'del citado', 'capítulo iii']
+
+  Tipo :  Obligación
+  Palabras Clave :  ['artículo', 'bis en', 'lo que se refiere', 'instituciones', 'utilizarán el método estándar']
+
+  Tipo :  Recomendación
+  Palabras Clave :  ['para', 'riesgo operacional', 'se podrán aplicar distintos métodos', 'complejidad creciente conforme', 'lo que se establece', 'el presente título']
+
+  Tipo :  Recomendación
+  Palabras Clave :  ['artículo', 'bis', 'para', 'efectos del reconocimiento', 'operaciones', 'se incluirán las', 'operaciones', 'que se concierten', 'entrega o vigencia', 'según sea el caso']
+
+  Tipo :  Obligación
+  Palabras Clave :  ['artículo', 'bis', 'se', 'considerará que se', 'un activo', 'y que por lo tanto éste', 'tendrá requerimientos', 'con lo establecido', 'el presente título', 'siempre que se cumpla', 'con los', 'criterios contables']
+
+  Tipo :  Obligación
+  Palabras Clave :  ['artículo', 'bis', 'en', 'determinación del importe', 'las operaciones para los efectos del presente título', 'operaciones', 'deberán ser valuadas conforme', 'criterios contables']
+
+  Tipo :  Obligación
+  Palabras Clave :  ['artículo', 'bis', 'asimismo', 'para el caso', 'que las', 'instituciones', 'modelos', 'valuación internos', 'las posiciones valuadas mediante dichos modelos deberán ser ajustadas para efectos del presente título considerando como mínimo los costos', 'cancelación y cierre', 'los riesgos operacionales', 'los costos', 'las operaciones', 'los gastos administrativos futuros', 'diferenciales crediticios', 'el riesgo del modelo', 'incluyendo aquel asociado', 'con el uso', 'una metodología incorrecta', 'valuación y', 'así como', 'su caso', 'las posiciones']
+
+  Tipo :  Obligación
+  Palabras Clave :  ['artículo', 'bis', 'tratándose', 'aquellas posiciones ilíquidas', 'instituciones', 'deberán establecer y mantener procedimientos para identificarlas así como revisar continuamente que el ajuste correspondiente sigue siendo vigente', 'para lo cual deberán considerar factores tales como el tiempo que se necesitaría para cubrir', 'los diferenciales entre los precios', 'compra y venta', 'el promedio y volatilidad', 'los montos que se comercializan tanto', 'condiciones normales como', 'mercado y el tiempo transcurrido desde', 'las operaciones']
+
+  Tipo :  Recomendación
+  Palabras Clave :  ['artículo', 'bis', 'en', 'el caso del', 'método estándar', 'que se refiere el presente título', 'créditos se considerará neta', 'las correspondientes reservas crediticias constituidas que', 'computen como capital complementario', 'lo dispuesto', 'iii', 'artículo', 'bis', 'estas disposiciones', 'los valores y otros activos', 'su caso', 'se considerarán netos', 'las respectivas estimaciones', 'depreciaciones y castigos']
+
+  Tipo :  Recomendación
+  Palabras Clave :  ['artículo', 'bis', 'las operaciones', 'las entidades financieras del exterior', 'que se refiere el segundo párrafo del', 'artículo', 'ley', 'para todos los efectos', 'lo dispuesto', 'artículo', 'ley', 'se considerarán como realizadas por', 'institución']
+
+  Tipo :  Obligación
+  Palabras Clave :  ['artículo', 'bis', 'asimismo', 'operaciones', 'estas entidades del exterior', 'para efectos', 'lo previsto', 'el presente título', 'se considerarán conforme', 'lo siguiente', 'artículo', 'bis']
+
+  Tipo :  Obligación
+  Palabras Clave :  ['se', 'efectuará un cómputo', 'capital para cada entidad financiera', 'filial del exterior', 'aplicando lo dispuesto', 'el presente título', 'operaciones', 'bis', 'ii']
+
+  Tipo :  Obligación
+  Palabras Clave :  ['en', 'que el requerimiento', 'capital obtenido conforme', 'inciso anterior sea', 'importe del capital neto', 'entidad financiera del exterior', 'que se trate', 'diferencia entre ambas cantidades se sumará para todos los efectos', 'los requerimientos', 'institución']
